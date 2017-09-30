@@ -1,0 +1,23 @@
+.box {
+	height: 200px;
+	margin-top: 100px;
+	margin-bottom: 0;
+}
+h1 {
+	margin-top: 100px;
+	font-size: 36px;
+	color: #333333;
+	text-align: center;
+	text-transform: uppercase;
+}
+.img {
+	text-align: center;
+}
+img {
+	text-align: center;
+	height: 140px;
+}
+p {
+	font-size: 18px;
+	margin-top: 30px;
+}
