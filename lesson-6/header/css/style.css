@@ -1,0 +1,45 @@
+* {
+	box-sizing: border-box;
+}
+
+.box {
+	top: 0;
+	left: 0;
+	right: 0;
+	background-color: #000;
+	color: #fff;
+	padding: 0;
+	position: fixed;
+	display: inline-block;
+}
+
+a {
+	font-family: arial;
+	font-size: 14px;
+	color: #fff;
+	text-transform: uppercase;
+	text-decoration: none;
+	margin: 20px; 
+}
+
+li {
+	display: inline-block;
+}
+p {
+	margin: 100px 50px;
+}
+
+.image {
+	height: 70px;
+	margin: 0;
+	padding: 0px 50px;
+}
+.menu {
+	width: 50%;
+	height: 70px;
+	padding: 10px; 
+	position: absolute;
+	right: 0;
+	
+	
+}
