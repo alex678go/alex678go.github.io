@@ -16,4 +16,4 @@ __Мои домашние задания__
 [Урок-13.1](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-13.1/src) -Форма в стиле Pixel Perfect  
 [Урок-13 Практика-1](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-13.2/src) -Верстка шапки сайта   
 [Урок-14](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-14/src) -Подключение шрифтов  
-[Урок-14 Практика-2](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-14%20practice-2/src) -Подключение шрифтов и Верстка первого экрана
+[Урок-14 Практика-2](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-14_practice-2/src) -Подключение шрифтов и Верстка первого экрана
