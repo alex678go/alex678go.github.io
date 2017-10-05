@@ -13,7 +13,9 @@ __Мои домашние задания__
 [Урок-10](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-10) -Препроцессор LESS для CSS  
 [Урок-11](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-11) -Сниппеты  
 [Урок-12](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-12) -Хостинг от GitHub  
-[Урок-13.1](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-13.1/src) -Форма в стиле Pixel Perfect  
-[Урок-13 Практика-1](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-13.2/src) -Верстка шапки сайта   
+[Урок-13](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-13.1/src) -Форма в стиле Pixel Perfect  
+[Практика часть-1](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-13.2/src) -Верстка шапки сайта   
 [Урок-14](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-14/src) -Подключение шрифтов  
-[Урок-14 Практика-2](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-14%20practice-2/src) -Подключение шрифтов и Верстка первого экрана
+[Практика часть-2](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-14%20practice-2/src) -Подключение шрифтов и Верстка первого экрана  
+[Урок-15](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-15/src) -Псевдоклассы и псевдоэлементы  
+[Практика часть-3](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-15%20practice-3/src) -Эффекты при наведении и адаптив первого экрана
