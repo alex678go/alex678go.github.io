@@ -1,0 +1,10 @@
+.container {
+  margin-top: 0;
+  padding-top: 100px;
+  padding-bottom: 200px;
+  background: #fff url(../img/bg.jpg) center center no-repeat;
+  background-size: cover;
+}
+.fotorama {
+  border: 2px solid #000;
+}
