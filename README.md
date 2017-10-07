@@ -19,4 +19,5 @@ __Мои домашние задания__
 [Практика часть-2](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-14%20practice-2/src) -Подключение шрифтов и Верстка первого экрана  
 [Урок-15](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-15/src) -Псевдоклассы и псевдоэлементы  
 [Практика часть-3](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-15%20practice-3/src) -Эффекты при наведении и адаптив первого экрана  
-[Урок-16](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-16/src) -Слайдер на сайте
+[Урок-16](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-16/src) -Слайдер на сайте  
+[Практика часть-4](https://github.com/alex678go/alex678go.github.io/tree/master/Practice-4/src) -Верстка блока с преимуществами и Слайдер
