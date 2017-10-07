@@ -1,0 +1,35 @@
+.container {
+  margin-top: 80px;
+}
+.modal-dialog {
+	background-color: #66ccff;
+	width: 314px;
+	height: auto;
+	border-radius: 5px;
+}
+.modal-content {
+	border-radius: 5px;
+	background-color: #ccffff;
+}
+.modal-header {
+
+}
+.modal-body {
+	background-color: #66b3ff;
+	color: #fff;
+}
+.btn-success {
+  margin-left: 45%;
+}
+.btn-default {
+	width: 135px;
+}
+.btn-default:hover {
+	width: 135px;
+	background-color: #66b3ff;
+	color: #fff;
+}
+.btn-primary {
+	width: 135px;
+}
+
