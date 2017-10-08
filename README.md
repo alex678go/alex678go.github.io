@@ -21,4 +21,5 @@ __Мои домашние задания__
 [Практика часть-3](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-15%20practice-3/src) -Эффекты при наведении и адаптив первого экрана  
 [Урок-16](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-16/src) -Слайдер на сайте  
 [Практика часть-4](https://github.com/alex678go/alex678go.github.io/tree/master/Practice-4/src) -Верстка блока с преимуществами и Слайдер  
-[Урок-17](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-17/src) -Верстка модального окна
+[Урок-17](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-17/src) -Верстка модального окна  
+[Практика-5](https://github.com/alex678go/alex678go.github.io/tree/master/Practice-5/src) -Верстка всплывающих окон на сайте
