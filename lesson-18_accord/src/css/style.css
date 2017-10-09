@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:400,700&subset=cyrillic');
+.container {
+	margin-top: 0;
+	margin-bottom: 80px;
+	width: auto;
+	height: 600px;
+	padding-top: 0;
+    background: #fff url(../img/bg.png) center center no-repeat;
+    background-size: cover;  
+}
+h1 {
+    color: #0bbaf0;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+}
+h2 {
+    color: #0bbaf0;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: center;
+}
+img {
+    display:block; 
+    margin:0 auto;
+    margin-bottom: 20px;
+}
+label {
+
+}
+.ac-container{
+	display: block;
+    width: 860px;
+    margin: 10px auto 30px auto;
+}
+label{
+    background-color: #0bbaf0;
+    width: 860px;
+    height: 54px;
+    font-family: 'Ubuntu', sans-serif;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 12px;
+}
+
+.ac-container label:hover:after,
+.ac-container input:checked + label:hover:after{
+    content: '';
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    right: 13px;
+    top: 7px;
+    background: transparent url(https://netcribe.com/example/arrow_down.png) no-repeat center center;  
+}
+
+.ac-container input:checked + label:hover:after {
+    background-image: url(https://netcribe.com/example/arrow_up.png);
+}
+
+.ac-container input{
+    display: none;
+}
+
+.ac-container article{
+    background: rgba(255, 255, 255, 0.5);
+    margin-top: 0;
+    overflow: hidden;
+    height: 0px;
+    position: relative;
+    z-index: 10;
+    -webkit-transition: height 0.3s ease-in-out, box-shadow 0.6s linear;
+    -moz-transition: height 0.3s ease-in-out, box-shadow 0.6s linear;
+    -o-transition: height 0.3s ease-in-out, box-shadow 0.6s linear;
+    -ms-transition: height 0.3s ease-in-out, box-shadow 0.6s linear;
+    transition: height 0.3s ease-in-out, box-shadow 0.6s linear;
+}
+.ac-container input:checked ~ article {
+     -webkit-transition: height 0.3s ease-in-out, box-shadow 0.6s linear;
+    -moz-transition: height 0.3s ease-in-out, box-shadow 0.6s linear;
+    -o-transition: height 0.3s ease-in-out, box-shadow 0.6s linear;
+    -ms-transition: height 0.3s ease-in-out, box-shadow 0.6s linear;
+    transition: height 0.3s ease-in-out, box-shadow 0.6s linear;
+    /* box-shadow: 0px 0px 0px 1px rgba(155,155,155,0.3); */
+    height: 130px;
+    top: 0;
+}
+
+.text-info {
+    display: block;
+    margin:0 auto;
+    border-radius: 10px;
+    border-width: 4px;
+    border-color: #dcdcdc;
+    border-style: solid;
+    background-color: #ffffff;
+    width: 838px;
+    height: 124px;
+
+}
+p {
+    font-family: 'Ubuntu', sans-serif;
+    color: #535353;
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 12px;
+}
+
+
+
+
+
