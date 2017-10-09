@@ -23,4 +23,4 @@ __Мои домашние задания__
 [Практика часть-4](https://github.com/alex678go/alex678go.github.io/tree/master/Practice-4/src) -Верстка блока с преимуществами и Слайдер  
 [Урок-17](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-17/src) -Верстка модального окна  
 [Практика-5](https://github.com/alex678go/alex678go.github.io/tree/master/Practice-5/src) -Верстка всплывающих окон на сайте  
-[Урок-18](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-18/src) -Табы и аккордеон на сайте
+[Урок-18]() -Табы и аккордеон на сайте
