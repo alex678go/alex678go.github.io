@@ -24,4 +24,5 @@ __Мои домашние задания__
 [Урок-17](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-17/src) -Верстка модального окна  
 [Практика часть-5](https://github.com/alex678go/alex678go.github.io/tree/master/Practice-5/src) -Верстка всплывающих окон на сайте  
 [Урок-18 Аккордион](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-18_accord/src) -Верстка аккордеона  
-[Урок-18 Форма](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-18_forma/src) -Верстка формы регистрации на Табах
+[Урок-18 Форма](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-18_forma/src) -Верстка формы регистрации на Табах  
+[Практика-6](https://github.com/alex678go/alex678go.github.io/tree/master/Practice-6/src) -Верстка блока "Цены" на сайте 
