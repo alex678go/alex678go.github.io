@@ -1,0 +1,190 @@
+@font-face {
+    font-family: "MyriadProRegular";
+    src: url("../fonts/MyriadProRegular/MyriadProRegular.eot");
+    src: url("../fonts/MyriadProRegular/MyriadProRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/MyriadProRegular/MyriadProRegular.woff") format("woff"),
+    url("../fonts/MyriadProRegular/MyriadProRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+.container-tab {
+	margin: 0 auto;
+    margin-top: 10px;
+    width: 1000px;
+    height: 600px;
+    padding-top: 50px;
+    background: #fff url(../img/bg.png) center center no-repeat;
+    background-size: cover;  
+}
+
+ /* Базовый контейнер табов */
+ .tabs {
+  width: 630px;
+	 height: 446px;
+ 	padding: 0px;
+ 	margin: 0 auto;
+
+ }
+ /* Стили секций с содержанием */
+ .tabs>section {
+ 	display: none;
+ 	padding: 15px;
+ 	background: #fff;
+ 	border: 1px solid #ddd;
+
+ }
+ .tabs>section> {
+ 	margin: 0 0 5px;
+ 	line-height: 1.5;
+ 	color: #383838;
+
+
+ 	/* прикрутим анимацию */
+ 	-webkit-animation-duration: 1s;
+ 	animation-duration: 1s;
+ 	-webkit-animation-fill-mode: both;
+ 	animation-fill-mode: both;
+ 	-webkit-animation-name: fadeIn;
+ 	animation-name: fadeIn;
+
+ }
+ /* Описываем анимацию свойства opacity */
+  
+ @-webkit-keyframes fadeIn {
+ 	from {
+ 		opacity: 0;
+ 	}
+ 	to {
+ 		opacity: 1;
+ 	}
+ }
+ @keyframes fadeIn {
+ 	from {
+ 		opacity: 0;
+ 	}
+ 	to {
+ 		opacity: 10;
+ 	}
+ }
+
+ /* Моя анимация */
+@keyframes move-btn {
+	0% {
+	margin-top: -80px;
+	margin-left: 430px;
+	}
+	10% {
+		margin-left: 4px;
+
+	}
+	12% {
+		width: 50px;
+	height: 100px;
+	margin-top: -105px;	
+	}
+	100% {
+		margin-top: -80px;
+	margin-left: 430px;
+	}
+} 
+
+ /* Прячем чекбоксы */
+ .tabs>input {
+ 	display: none;
+ 	position: absolute;
+
+ }
+ /* Стили переключателей вкладок (табов) */
+ .tabs>label {
+ 	display: inline-block;
+ 	margin: 10px 0 -1px;
+ 	margin-left: 25px;
+ 	margin-right: -22px;
+ 	padding: 15px 25px;
+ 	font-weight: 600;
+ 	text-align: center;
+ 	line-height: 0.4;
+ 	color: #000;
+ 	/* border: 0px solid #ddd; */
+ 	border-width: 1px 1px 1px 1px;
+ 	background: #f1f1f1;
+ 	border-radius: 5px 5px 0 0;
+ }
+ /* Шрифт-иконки от Font Awesome в формате Unicode */
+ .tabs>label:before {
+ 	font-family: MyriadPro;
+		font-size: 24px;
+  	margin-right: 10px; 	
+ }
+ 
+ /* Изменения стиля переключателей вкладок при наведении */
+  
+ .tabs>label:hover {
+ 	color: #888;
+ 	cursor: pointer;
+ }
+ /* Стили для активной вкладки */
+ .tabs>input:checked+label {
+ 	color: #fff;
+ 	background: #00a5da;
+ 	border: 1px solid #00a5da;
+
+ }
+ /* Активация секций с помощью псевдокласса :checked */
+ #tab1:checked~#content-tab1, #tab2:checked~#content-tab2, #tab3:checked~#content-tab3, #tab4:checked~#content-tab4 {
+ 	display: block; 
+ 	width: 581px;
+ 	height: 364px;
+ 	background-color: #000000;
+ 	border: 25px solid #00a5da;
+ 	border-radius: 5px;
+ }
+.input {
+		display: block; 
+		margin: 0 auto;
+		margin-top: 30px;
+		padding: 10px;
+		width: 450px;
+		height: 61px;
+		font-size: 24px;
+		background-color: #131212;
+		color: #fff;
+		animation-duration: 0.5s;
+		animation-delay: 1.3s;
+		animation-iteration-count: 1;
+}
+.check-box {
+  display: block; 
+  width: 200px;
+  margin-left: 50px;
+  margin-top: 0px;
+} 
+		
+.password {
+	 display: block; 
+  margin-top: 15px;
+		font-size: 15px;
+		color: #c61900;
+}
+p {
+	font-size: 15px;
+	color: #fff;
+	margin-top: 40px;
+}
+.btn {
+	width: 128px;
+	height: 41px;
+	padding: 0;
+	background-color: #c61900;
+	margin-top: -80px;
+	margin-left: 430px;
+	color: #fff;
+	font-size: 24px;
+	animation-name: move-btn;
+	animation-duration: 3s;
+	animation-timing-function: cubic-bezier(.93,-0.35,.53,1.6);
+	animation-delay: 1s;
+	animation-iteration-count: 1;
+}
