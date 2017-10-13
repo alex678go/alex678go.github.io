@@ -27,4 +27,5 @@ __Мои домашние задания__
 [Урок-18 Форма](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-18_forma/src) -Верстка формы регистрации на Табах  
 [Практика-6](https://github.com/alex678go/alex678go.github.io/tree/master/Practice-6/src) -Верстка блока "Цены" на сайте  
 [Урок-19](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-19/src) -Анимация формы регистрации  
-[Практика-7](https://github.com/alex678go/alex678go.github.io/tree/master/Practice-7/src) -Верстка блока "Отзывы", слайдер в слайдере
+[Практика-7](https://github.com/alex678go/alex678go.github.io/tree/master/Practice-7/src) -Верстка блока "Отзывы", слайдер в слайдере  
+[Урок-20](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-20/src) -Видео-фон на сайте
