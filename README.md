@@ -28,4 +28,5 @@ __Мои домашние задания__
 [Практика-6](https://github.com/alex678go/alex678go.github.io/tree/master/Practice-6/src) -Верстка блока "Цены" на сайте  
 [Урок-19](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-19/src) -Анимация формы регистрации  
 [Практика-7](https://github.com/alex678go/alex678go.github.io/tree/master/Practice-7/src) -Верстка блока "Отзывы", слайдер в слайдере  
-[Урок-20](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-20/src) -Видео-фон на сайте
+[Урок-20](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-20/src) -Видео-фон на сайте  
+[Практика-8](https://github.com/alex678go/alex678go.github.io/tree/master/Practice-8/src) -Доверстал блок с отзывами, сделал адаптивным
