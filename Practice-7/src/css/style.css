@@ -211,7 +211,7 @@ section {
   z-index: 99;
   width: 2rem;
   height: 2rem;
-  border: none;
+  border: 1px solid red;
 }
 .prev {
   left: 0;
