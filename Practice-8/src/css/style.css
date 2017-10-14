@@ -219,12 +219,12 @@ section {
 }
 .prev {
   left: 0;
-  background: url(../img/features/left-arrow.svg) center no-repeat;
+  background: url(../src/img/features/left-arrow.svg) center no-repeat;
   background-size: 70%;
 }
 .next {
   right: 0;
-  background: url(../img/features/right-arrow.svg) center no-repeat;
+  background: url(../src/img/features/right-arrow.svg) center no-repeat;
   background-size: 70%;
 }
 /* Секция с ценами */
