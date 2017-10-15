@@ -1,0 +1,42 @@
+@font-face {
+    font-family: "MyriadProRegular";
+    src: url("../fonts/MyriadProRegular/MyriadProRegular.eot");
+    src: url("../fonts/MyriadProRegular/MyriadProRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/MyriadProRegular/MyriadProRegular.woff") format("woff"),
+    url("../fonts/MyriadProRegular/MyriadProRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+.container{
+	margin: 0 auto;
+    margin-top: 10px;
+    width: 100%;
+    padding-top: 50px;
+    background: #fff url(../img/feedback-bg.png) center center no-repeat;
+    background-size: cover;  
+  }
+  .contact img {
+  	position: absolute;
+  	top: 0;
+  	left: 385px;
+  	height: 400px;
+  	z-index: 0;
+  }
+  .adres {
+  	display: block;
+  	position: absolute;
+  	color: #fff;
+  	top: 0;
+  	left: 480px;
+  	text-align: center;  	
+  }
+h3 {
+	margin-top: 30px;
+	line-height: 3;
+}
+.footer {
+	position: absolute;
+	right: 100px;
+}
+	
