@@ -30,4 +30,5 @@ __Мои домашние задания__
 [Практика-7](https://github.com/alex678go/alex678go.github.io/tree/master/Practice-7/src) -Верстка блока "Отзывы", слайдер в слайдере  
 [Урок-20](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-20/src) -Видео-фон на сайте  
 [Практика-8](https://github.com/alex678go/alex678go.github.io/tree/master/Practice-8/src) -Доверстал блок с отзывами, сделал адаптивным  
-[Урок-21](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-21) -Parallax эффект для сайта
+[Урок-21](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-21) -Parallax эффект для сайта  
+[Практика-9](https://github.com/alex678go/alex678go.github.io/tree/master/Practice-9/src) -Верстаем схему работы и все включено
