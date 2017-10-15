@@ -273,7 +273,7 @@ a.btn-cta {
 /* ======= Hero Section ======= */
 .hero-section {
   min-height: 560px;
-  background: #494d55;
+  background: none;
   position: relative;
 }
 .hero-section .figure-holder-wrapper {
