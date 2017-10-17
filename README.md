@@ -33,4 +33,5 @@ __Мои домашние задания__
 [Урок-21](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-21) -Parallax эффект для сайта  
 [Практика-9](https://github.com/alex678go/alex678go.github.io/tree/master/Practice-9/src) -Верстаем схему работы и все включено  
 [Урок-22](https://github.com/alex678go/alex678go.github.io/tree/master/lesson-22/src) -Гео-карты для сайта  
-[Практика-10](https://github.com/alex678go/alex678go.github.io/tree/master/Practice-10/src) -Верстаем блок "Развеиваем сомнения"
+[Практика-10](https://github.com/alex678go/alex678go.github.io/tree/master/Practice-10/src) -Верстаем блок "Развеиваем сомнения"  
+[Практика-11](https://github.com/alex678go/alex678go.github.io/tree/master/practice-11/src) -Верстаем блок "Материалы"
